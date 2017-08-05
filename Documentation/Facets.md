@@ -1,7 +1,7 @@
 # Faceting
 
 SolrNet supports [faceted searching](http://wiki.apache.org/solr/SolrFacetingOverview).
-
+retet
 There are basically three kinds of facet queries:
 
  1. querying by field
